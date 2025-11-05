@@ -1,43 +1,46 @@
-🧭 Go Trip – Travel Website
 
-Go Trip is a responsive and visually appealing travel & tourism website created using HTML5 and CSS3.
+## 🧭 Go Trip – Travel Website
+
+**Go Trip** is a responsive and visually appealing **travel & tourism website** created using **HTML5** and **CSS3**.
 It helps users explore popular destinations, view travel packages, and plan their trips easily.
-Designed with modern UI, smooth layout, and responsive sections, it’s ideal for a college mini-project.
+Designed with modern UI, smooth layout, and responsive sections, it’s ideal for a **college mini-project**.
 
-✨ Features
+---
 
-🏔️ Beautiful banner with destination search
+### ✨ Features
 
-🚌 Travel services section
+* 🏔️ Beautiful banner with destination search
+* 🚌 Travel services section
+* 🌆 Featured tour packages
+* 📖 About Us with company info
+* 📞 Footer with quick links and contact details
+* 📱 Fully responsive design
 
-🌆 Featured tour packages
+---
 
-📖 About Us with company info
+### 🧩 Technologies Used
 
-📞 Footer with quick links and contact details
+* **HTML5** — for structure
+* **CSS3** — for styling and responsiveness
+* **Google Fonts** — for elegant typography
 
-📱 Fully responsive design
+---
 
-🧩 Technologies Used
+### ⚙️ How to Run
 
-HTML5 — for structure
+1. Download the project folder.
+2. Open `index.html` in your browser.
+3. (Optional) Use **Live Server** in VS Code for better view.
 
-CSS3 — for styling and responsiveness
+---
 
-Google Fonts — for elegant typography
+### 👩‍💻 Developed By
 
-⚙️ How to Run
-
-Download the project folder.
-
-Open index.html in your browser.
-
-(Optional) Use Live Server in VS Code for better view.
-
-👩‍💻 Developed By
-
-Shravani Pawar
+**Shravani Pawar**
 📍 Pune, Maharashtra
-📧 gotrip@gmail.com
-
+📧 [gotrip@gmail.com](mailto:gotrip@gmail.com)
 📱 +91 9421121698
+
+---
+
+
